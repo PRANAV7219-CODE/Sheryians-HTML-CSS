@@ -8,11 +8,6 @@ This project showcases clean design principles, structured layout, and a strong 
 
 ---
 
-## 🌐 Live Demo
-
-Check out the live version of this project here:  
-👉 [Sheriyase Coding School Website] https://pranav7219-code.github.io/Sheryians-HTML-CSS/
-
 ---
 
 ## 🧩 Features
